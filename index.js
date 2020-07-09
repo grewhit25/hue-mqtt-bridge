@@ -4,7 +4,7 @@ var mqtt    = require('mqtt');
 var request = require('request');
 var extend  = require('deep-extend');
 var equal   = require('equals');
-var config  = require('./config.json');
+var config  = require('/config/config.json');
 
 config = extend({
   bridges: [],

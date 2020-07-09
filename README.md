@@ -1,5 +1,7 @@
 # Philips Hue Sensor MQTT Bridge
 
+## Forked from https://github.com/dale3h/hue-mqtt-bridge
+
 This should be compatible with multiple Hue bridges, but it has only been tested
 with one. Also, this has only been tested with Hue Dimmer.
 
